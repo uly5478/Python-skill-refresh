@@ -3,6 +3,8 @@
 Start at 20170702 
 
 1. BigData related Python Library
+
+
 a. numpy
 
 b. pandas
